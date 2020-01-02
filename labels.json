@@ -8,48 +8,12 @@
     "color": "b60205"
   },
   {
-    "name": "Final Review Passed",
+    "name": "Reviews Passed",
     "color": "0e8a16"
-  },
-  {
-    "name": "Has Dependencies",
-    "color": "5319e7"
   },
   {
     "name": "Has Unaddressed Comments",
     "color": "d93f0b"
-  },
-  {
-    "name": "In Development",
-    "color": "fbca04"
-  },
-  {
-    "name": "In QA",
-    "color": "fbca04"
-  },
-  {
-    "name": "In Review",
-    "color": "fbca04"
-  },
-  {
-    "name": "Initial Review Passed",
-    "color": "0e8a16"
-  },
-  {
-    "name": "Needs Final Review",
-    "color": "b60205"
-  },
-  {
-    "name": "Needs Rebase",
-    "color": "e99695"
-  },
-  {
-    "name": "Pending CI",
-    "color": "fef2c0"
-  },
-  {
-    "name": "QA Failed",
-    "color": "b60205"
   },
   {
     "name": "QA Passed",
@@ -60,11 +24,11 @@
     "color": "c2e0c6"
   },
   {
-    "name": "Ready for Review",
+    "name": "WIP",
     "color": "c2e0c6"
   },
   {
-    "name": "Tests Failing",
+    "name": "CI Failing",
     "color": "b60205"
   }
 ]
